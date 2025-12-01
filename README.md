@@ -1,16 +1,29 @@
-# React + Vite
+# CareApna – Doctor Appointment Booking (Frontend Only)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+CareApna is a modern, responsive **frontend-only** web application built using **React** and **Tailwind CSS**.  
+It simulates an online healthcare platform where users can explore doctors, view specialties, and book appointments (UI only — *no backend integration*).
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## React Compiler
+- Beautiful & responsive UI (Tailwind CSS)
+- Browse doctors by specialty
+- Doctor details page (expertise, availability)
+- Appointment booking UI (frontend only)
+- Search bar for doctors/specialties
+- Clean navigation using React Router
+- Lightweight & fast component structure
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React** – UI components
+- **Tailwind CSS** – Styling & responsiveness
+- **React Router** – Navigation & page routing
+- **Vite / CRA** – Development environment (based on your setup)
+
+
+## 📂 Project Structure
+
