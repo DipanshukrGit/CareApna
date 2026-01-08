@@ -25,5 +25,5 @@ It simulates an online healthcare platform where users can explore doctors, view
 - **Vite / CRA** – Development environment (based on your setup)
 
 
-## 📂 Project Structure
+
 
