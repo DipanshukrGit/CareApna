@@ -15,7 +15,7 @@ It simulates an online healthcare platform where users can explore doctors, view
 - Clean navigation using React Router
 - Lightweight & fast component structure
 
-----
+---
 
 ## 🛠️ Tech Stack
 
